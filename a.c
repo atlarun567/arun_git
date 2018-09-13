@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//Hello 
 int main()
 {
 	int a[100],i,n,m,k;
